@@ -1,0 +1,49 @@
+body {
+  font-family: Gotham, Arial, sans-serif;
+  font-weight: 500;  
+}
+
+
+#program {
+  height: 1100px;
+  text-align: center; 
+  padding: 5% 20% !important; 
+  line-height: 2.5 !important; 
+  
+}
+
+#program h3 {
+  padding-bottom: 2em;
+}
+
+.section-icons {
+  padding: 5% !important;
+}
+
+.section-impact {
+  padding: 5% !important;
+}
+/* 
+.card3 {
+  padding-bottom: 20% !important;
+} */
+
+.brand-logo {
+  width: 400px;
+}
+
+.slides li img {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+
+#gallery {
+  padding: 50px;
+}
+
+#gallery .container .center {
+  margin-bottom: 60px;
+}
+
+#contact {
+  padding: 100px 0;
+}

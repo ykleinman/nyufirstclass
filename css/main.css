@@ -3,6 +3,11 @@ body {
   font-weight: 500;  
 }
 
+nav  {
+  height: 100px;
+  padding: 25px;
+}
+
 
 #program {
   height: 1100px;
@@ -29,7 +34,7 @@ body {
 } */
 
 .brand-logo {
-  width: 25rem;
+  width: 12em;
 }
 
 .slides li img {
